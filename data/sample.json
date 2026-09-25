@@ -2,8 +2,17 @@
   "event_id": "sample-008-001",
   "kind": "KNOWLEDGE_REGISTERED",
   "occurred_at": "2026-09-20T09:00:00+08:00",
-  "subject_id": "demo-008",
+  "subject_id": "unit-demo-008",
   "payload": {
+    "unit_code": "unit-demo-008",
+    "title": "虚构展演技艺说明（样例）",
+    "holders": ["holder-a", "holder-b"],
+    "tier": "RESTRICTED",
+    "regions": ["SG"],
+    "purposes": ["PERFORMANCE"],
+    "valid_from": "2026-09-20",
+    "valid_until": "2026-12-31",
+    "version": "v1",
     "note": "虚构资料，仅用于格式核对"
   }
 }
