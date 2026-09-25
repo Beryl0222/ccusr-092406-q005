@@ -6,6 +6,6 @@
   "description": "非遗跨境展演知识边界领域资料",
   "scripts": {
     "test": "node --test",
-    "build": "node --check src/heritage_exchange_boundary.js"
+    "build": "node --check src/heritage_exchange_boundary.js && node --check src/licensing_package_service.js"
   }
 }
